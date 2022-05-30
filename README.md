@@ -1,6 +1,6 @@
 # SNLP-project
 
-comparing three text classification models for classifying political comments on reddit: TF-IDF, Word2Vec, BERT  
+comparing three text classification models for classifying political comments on reddit: TF-IDF, Word2Vec, BERT using recall, precision and F1 scoren.
   
 # TF-IDF results  
 
